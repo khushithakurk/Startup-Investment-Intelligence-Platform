@@ -1,0 +1,301 @@
+Startup_ID,Startup_Name,Industry,City,State,Funding_Year,Funding_Stage,Lead_Investor,Funding_Amount_USD,Employees,Status
+1,Startup_001,Cybersecurity,Pune,Maharashtra,2025,Series A,Blume Ventures,20300000,417,Active
+2,Startup_002,E-commerce,Pune,Maharashtra,2025,Pre-Series A,Accel,12200000,406,Active
+3,Startup_003,AgriTech,Ahmedabad,Gujarat,2022,Seed,Accel,8300000,362,Active
+4,Startup_004,EdTech,Hyderabad,Telangana,2025,Series C,Peak XV,43800000,393,Active
+5,Startup_005,EdTech,Jaipur,Rajasthan,2018,Pre-Series A,Blume Ventures,36800000,476,Active
+6,Startup_006,SaaS,Ahmedabad,Gujarat,2022,Series C,Peak XV,16800000,210,Active
+7,Startup_007,Logistics,Ahmedabad,Gujarat,2023,Series A,Blume Ventures,38100000,388,Active
+8,Startup_008,E-commerce,Jaipur,Rajasthan,2022,Series C,Nexus Venture Partners,11800000,131,Active
+9,Startup_009,E-commerce,Ahmedabad,Gujarat,2020,Pre-Series A,Tiger Global,6200000,172,Active
+10,Startup_010,FinTech,Noida,Uttar Pradesh,2024,Series A,Accel,900000,472,Active
+11,Startup_011,SaaS,Delhi,Delhi,2026,Series A,Peak XV,3200000,334,Active
+12,Startup_012,E-commerce,Pune,Maharashtra,2018,Series A,Matrix Partners,24900000,63,Active
+13,Startup_013,AI,Hyderabad,Telangana,2018,Pre-Series A,Accel,24500000,399,Active
+14,Startup_014,SaaS,Kolkata,West Bengal,2024,Series A,Tiger Global,6900000,52,Active
+15,Startup_015,CleanTech,Hyderabad,Telangana,2026,Series B,Nexus Venture Partners,30100000,108,Active
+16,Startup_016,CleanTech,Pune,Maharashtra,2018,Series C,Peak XV,22900000,432,Active
+17,Startup_017,HealthTech,Delhi,Delhi,2024,Series A,Kalaari Capital,4000000,416,Active
+18,Startup_018,AgriTech,Kolkata,West Bengal,2021,Series C,Accel,19900000,474,Active
+19,Startup_019,HealthTech,Kolkata,West Bengal,2018,Series B,Accel,40200000,88,Active
+20,Startup_020,FinTech,Noida,Uttar Pradesh,2018,Series A,Tiger Global,2300000,443,Active
+21,Startup_021,Logistics,Bengaluru,Karnataka,2021,Seed,Nexus Venture Partners,5800000,101,Active
+22,Startup_022,EdTech,Delhi,Delhi,2025,Series A,Sequoia Capital,39600000,480,Active
+23,Startup_023,E-commerce,Mumbai,Maharashtra,2022,Series A,Peak XV,41900000,463,Active
+24,Startup_024,FinTech,Ahmedabad,Gujarat,2022,Series B,Sequoia Capital,37200000,391,Active
+25,Startup_025,HealthTech,Kolkata,West Bengal,2018,Series C,Blume Ventures,16300000,308,Active
+26,Startup_026,AI,Jaipur,Rajasthan,2025,Series C,Blume Ventures,13400000,188,Active
+27,Startup_027,AI,Hyderabad,Telangana,2020,Series B,Blume Ventures,3000000,232,Active
+28,Startup_028,Cybersecurity,Mumbai,Maharashtra,2023,Seed,Kalaari Capital,12800000,148,Active
+29,Startup_029,SaaS,Jaipur,Rajasthan,2026,Pre-Series A,Blume Ventures,16700000,260,Active
+30,Startup_030,AI,Kolkata,West Bengal,2021,Pre-Series A,Blume Ventures,6300000,320,Active
+31,Startup_031,E-commerce,Delhi,Delhi,2020,Seed,Nexus Venture Partners,14100000,77,Active
+32,Startup_032,Cybersecurity,Pune,Maharashtra,2018,Pre-Series A,Sequoia Capital,42600000,188,Active
+33,Startup_033,AgriTech,Delhi,Delhi,2018,Seed,Blume Ventures,31000000,485,Active
+34,Startup_034,FinTech,Delhi,Delhi,2019,Pre-Series A,Tiger Global,48000000,22,Active
+35,Startup_035,Cybersecurity,Jaipur,Rajasthan,2024,Series B,Matrix Partners,20800000,487,Active
+36,Startup_036,EdTech,Jaipur,Rajasthan,2026,Seed,Matrix Partners,45900000,119,Active
+37,Startup_037,E-commerce,Delhi,Delhi,2020,Series A,Nexus Venture Partners,1300000,192,Active
+38,Startup_038,Logistics,Bengaluru,Karnataka,2020,Seed,Peak XV,12000000,326,Active
+39,Startup_039,HealthTech,Bengaluru,Karnataka,2025,Seed,Matrix Partners,37600000,76,Active
+40,Startup_040,E-commerce,Noida,Uttar Pradesh,2019,Series C,Sequoia Capital,42300000,337,Active
+41,Startup_041,E-commerce,Chennai,Tamil Nadu,2021,Series A,Blume Ventures,39700000,358,Active
+42,Startup_042,Cybersecurity,Chennai,Tamil Nadu,2023,Series B,Kalaari Capital,42100000,194,Active
+43,Startup_043,EdTech,Mumbai,Maharashtra,2022,Series C,Nexus Venture Partners,1000000,259,Active
+44,Startup_044,CleanTech,Delhi,Delhi,2021,Series B,Nexus Venture Partners,40200000,256,Active
+45,Startup_045,HealthTech,Pune,Maharashtra,2023,Series C,Blume Ventures,11100000,348,Active
+46,Startup_046,Cybersecurity,Chennai,Tamil Nadu,2020,Series A,Accel,23600000,325,Active
+47,Startup_047,HealthTech,Bengaluru,Karnataka,2021,Series C,Kalaari Capital,38400000,354,Active
+48,Startup_048,SaaS,Kolkata,West Bengal,2026,Series C,Nexus Venture Partners,14300000,397,Active
+49,Startup_049,HealthTech,Pune,Maharashtra,2024,Series B,Blume Ventures,29400000,338,Active
+50,Startup_050,EdTech,Chennai,Tamil Nadu,2018,Series A,Blume Ventures,38000000,451,Active
+51,Startup_051,CleanTech,Hyderabad,Telangana,2026,Series B,Sequoia Capital,43400000,109,Active
+52,Startup_052,EdTech,Ahmedabad,Gujarat,2024,Series A,Blume Ventures,8100000,499,Active
+53,Startup_053,AI,Pune,Maharashtra,2025,Pre-Series A,Nexus Venture Partners,19100000,451,Active
+54,Startup_054,Cybersecurity,Hyderabad,Telangana,2020,Seed,Sequoia Capital,2900000,409,Active
+55,Startup_055,CleanTech,Kolkata,West Bengal,2022,Series C,Blume Ventures,7900000,326,Active
+56,Startup_056,EdTech,Pune,Maharashtra,2019,Seed,Kalaari Capital,24900000,385,Active
+57,Startup_057,Logistics,Bengaluru,Karnataka,2025,Series C,Peak XV,35100000,131,Active
+58,Startup_058,E-commerce,Chennai,Tamil Nadu,2018,Series C,Accel,44400000,136,Active
+59,Startup_059,E-commerce,Jaipur,Rajasthan,2020,Pre-Series A,Tiger Global,30100000,453,Active
+60,Startup_060,E-commerce,Ahmedabad,Gujarat,2021,Seed,Nexus Venture Partners,34900000,406,Active
+61,Startup_061,CleanTech,Bengaluru,Karnataka,2022,Series B,Peak XV,5600000,17,Active
+62,Startup_062,EdTech,Pune,Maharashtra,2019,Series A,Peak XV,40300000,404,Active
+63,Startup_063,AgriTech,Ahmedabad,Gujarat,2023,Seed,Accel,45800000,288,Active
+64,Startup_064,CleanTech,Bengaluru,Karnataka,2025,Series C,Sequoia Capital,37300000,474,Active
+65,Startup_065,SaaS,Ahmedabad,Gujarat,2024,Series B,Tiger Global,35700000,54,Active
+66,Startup_066,EdTech,Chennai,Tamil Nadu,2019,Series A,Kalaari Capital,37000000,54,Active
+67,Startup_067,AI,Delhi,Delhi,2021,Pre-Series A,Accel,44300000,191,Active
+68,Startup_068,AI,Noida,Uttar Pradesh,2022,Pre-Series A,Kalaari Capital,25900000,267,Active
+69,Startup_069,AgriTech,Mumbai,Maharashtra,2024,Series B,Kalaari Capital,24700000,301,Active
+70,Startup_070,Cybersecurity,Hyderabad,Telangana,2023,Pre-Series A,Accel,29300000,195,Active
+71,Startup_071,HealthTech,Delhi,Delhi,2019,Series A,Sequoia Capital,28900000,223,Active
+72,Startup_072,FinTech,Pune,Maharashtra,2024,Series B,Sequoia Capital,34800000,35,Active
+73,Startup_073,Logistics,Ahmedabad,Gujarat,2026,Series A,Matrix Partners,28600000,463,Active
+74,Startup_074,Logistics,Bengaluru,Karnataka,2023,Seed,Kalaari Capital,12700000,68,Active
+75,Startup_075,Logistics,Hyderabad,Telangana,2021,Seed,Peak XV,38000000,458,Active
+76,Startup_076,EdTech,Delhi,Delhi,2021,Series C,Kalaari Capital,24100000,118,Active
+77,Startup_077,FinTech,Jaipur,Rajasthan,2025,Pre-Series A,Sequoia Capital,40000000,230,Active
+78,Startup_078,E-commerce,Mumbai,Maharashtra,2023,Series C,Accel,28200000,56,Active
+79,Startup_079,FinTech,Kolkata,West Bengal,2025,Seed,Accel,48800000,16,Active
+80,Startup_080,EdTech,Noida,Uttar Pradesh,2021,Series B,Tiger Global,5800000,490,Active
+81,Startup_081,FinTech,Delhi,Delhi,2020,Seed,Tiger Global,48400000,193,Active
+82,Startup_082,AgriTech,Hyderabad,Telangana,2025,Seed,Accel,13200000,148,Active
+83,Startup_083,HealthTech,Mumbai,Maharashtra,2024,Series B,Accel,1900000,168,Active
+84,Startup_084,Cybersecurity,Noida,Uttar Pradesh,2021,Seed,Tiger Global,21300000,234,Active
+85,Startup_085,CleanTech,Mumbai,Maharashtra,2020,Seed,Nexus Venture Partners,1900000,221,Active
+86,Startup_086,Cybersecurity,Delhi,Delhi,2022,Series A,Accel,24700000,411,Active
+87,Startup_087,FinTech,Jaipur,Rajasthan,2022,Series A,Accel,24400000,475,Active
+88,Startup_088,AI,Delhi,Delhi,2018,Pre-Series A,Peak XV,48200000,219,Active
+89,Startup_089,HealthTech,Ahmedabad,Gujarat,2019,Series A,Kalaari Capital,24000000,280,Active
+90,Startup_090,E-commerce,Noida,Uttar Pradesh,2023,Pre-Series A,Kalaari Capital,16400000,130,Active
+91,Startup_091,Cybersecurity,Noida,Uttar Pradesh,2022,Series C,Blume Ventures,16500000,412,Active
+92,Startup_092,Logistics,Mumbai,Maharashtra,2021,Pre-Series A,Tiger Global,1300000,48,Active
+93,Startup_093,SaaS,Pune,Maharashtra,2026,Pre-Series A,Matrix Partners,47600000,362,Active
+94,Startup_094,CleanTech,Jaipur,Rajasthan,2019,Series B,Blume Ventures,28600000,173,Active
+95,Startup_095,FinTech,Ahmedabad,Gujarat,2026,Series A,Nexus Venture Partners,3900000,26,Active
+96,Startup_096,CleanTech,Bengaluru,Karnataka,2022,Seed,Tiger Global,18500000,59,Active
+97,Startup_097,EdTech,Chennai,Tamil Nadu,2023,Seed,Accel,35300000,247,Active
+98,Startup_098,FinTech,Chennai,Tamil Nadu,2020,Seed,Accel,34500000,11,Active
+99,Startup_099,FinTech,Ahmedabad,Gujarat,2021,Pre-Series A,Blume Ventures,13700000,12,Active
+100,Startup_100,EdTech,Chennai,Tamil Nadu,2020,Series C,Blume Ventures,22800000,207,Active
+101,Startup_101,SaaS,Bengaluru,Karnataka,2026,Series C,Kalaari Capital,28200000,159,Active
+102,Startup_102,EdTech,Ahmedabad,Gujarat,2021,Series A,Blume Ventures,8700000,52,Active
+103,Startup_103,FinTech,Jaipur,Rajasthan,2018,Seed,Kalaari Capital,48400000,195,Active
+104,Startup_104,CleanTech,Pune,Maharashtra,2019,Series B,Blume Ventures,6600000,459,Active
+105,Startup_105,Cybersecurity,Jaipur,Rajasthan,2025,Series B,Matrix Partners,28000000,450,Active
+106,Startup_106,FinTech,Jaipur,Rajasthan,2025,Series C,Peak XV,18300000,62,Active
+107,Startup_107,AI,Bengaluru,Karnataka,2023,Series A,Tiger Global,40400000,368,Active
+108,Startup_108,CleanTech,Noida,Uttar Pradesh,2020,Series C,Nexus Venture Partners,1400000,353,Active
+109,Startup_109,Cybersecurity,Kolkata,West Bengal,2023,Series B,Sequoia Capital,39200000,177,Active
+110,Startup_110,E-commerce,Kolkata,West Bengal,2021,Series A,Matrix Partners,6900000,335,Active
+111,Startup_111,CleanTech,Jaipur,Rajasthan,2024,Pre-Series A,Blume Ventures,5900000,464,Active
+112,Startup_112,FinTech,Hyderabad,Telangana,2018,Seed,Matrix Partners,23800000,168,Active
+113,Startup_113,EdTech,Bengaluru,Karnataka,2022,Series A,Nexus Venture Partners,13500000,431,Active
+114,Startup_114,CleanTech,Pune,Maharashtra,2020,Series C,Sequoia Capital,3100000,317,Active
+115,Startup_115,Logistics,Ahmedabad,Gujarat,2021,Seed,Peak XV,48400000,68,Active
+116,Startup_116,E-commerce,Hyderabad,Telangana,2020,Series C,Matrix Partners,6500000,374,Active
+117,Startup_117,AI,Pune,Maharashtra,2022,Pre-Series A,Tiger Global,39300000,14,Active
+118,Startup_118,Cybersecurity,Hyderabad,Telangana,2025,Series C,Nexus Venture Partners,27900000,372,Active
+119,Startup_119,FinTech,Noida,Uttar Pradesh,2019,Seed,Blume Ventures,11600000,302,Active
+120,Startup_120,Cybersecurity,Bengaluru,Karnataka,2021,Series C,Accel,18700000,129,Active
+121,Startup_121,SaaS,Chennai,Tamil Nadu,2021,Seed,Tiger Global,300000,407,Active
+122,Startup_122,AgriTech,Mumbai,Maharashtra,2025,Seed,Nexus Venture Partners,38800000,362,Active
+123,Startup_123,FinTech,Delhi,Delhi,2019,Pre-Series A,Sequoia Capital,47100000,218,Active
+124,Startup_124,E-commerce,Jaipur,Rajasthan,2024,Seed,Nexus Venture Partners,12400000,485,Active
+125,Startup_125,EdTech,Bengaluru,Karnataka,2018,Series A,Nexus Venture Partners,42600000,31,Active
+126,Startup_126,Logistics,Hyderabad,Telangana,2018,Series B,Sequoia Capital,23700000,150,Active
+127,Startup_127,CleanTech,Kolkata,West Bengal,2023,Series B,Sequoia Capital,5000000,457,Active
+128,Startup_128,EdTech,Jaipur,Rajasthan,2018,Pre-Series A,Kalaari Capital,42300000,375,Active
+129,Startup_129,CleanTech,Bengaluru,Karnataka,2026,Series C,Accel,4200000,227,Active
+130,Startup_130,HealthTech,Delhi,Delhi,2024,Series A,Accel,17600000,114,Active
+131,Startup_131,Logistics,Mumbai,Maharashtra,2024,Series B,Kalaari Capital,2400000,106,Active
+132,Startup_132,EdTech,Delhi,Delhi,2018,Series B,Blume Ventures,38500000,139,Active
+133,Startup_133,Logistics,Bengaluru,Karnataka,2021,Seed,Kalaari Capital,25600000,259,Active
+134,Startup_134,FinTech,Ahmedabad,Gujarat,2023,Pre-Series A,Accel,45100000,68,Active
+135,Startup_135,FinTech,Pune,Maharashtra,2018,Seed,Blume Ventures,28400000,429,Active
+136,Startup_136,AI,Hyderabad,Telangana,2022,Pre-Series A,Sequoia Capital,14600000,20,Active
+137,Startup_137,SaaS,Pune,Maharashtra,2025,Pre-Series A,Sequoia Capital,46100000,308,Active
+138,Startup_138,EdTech,Ahmedabad,Gujarat,2020,Series C,Accel,7600000,166,Active
+139,Startup_139,EdTech,Chennai,Tamil Nadu,2020,Series B,Blume Ventures,13200000,136,Active
+140,Startup_140,Logistics,Noida,Uttar Pradesh,2023,Seed,Tiger Global,3800000,41,Active
+141,Startup_141,HealthTech,Bengaluru,Karnataka,2026,Seed,Kalaari Capital,45300000,438,Active
+142,Startup_142,E-commerce,Delhi,Delhi,2019,Series B,Sequoia Capital,6900000,135,Active
+143,Startup_143,CleanTech,Noida,Uttar Pradesh,2019,Series C,Peak XV,9300000,43,Active
+144,Startup_144,Logistics,Bengaluru,Karnataka,2024,Pre-Series A,Kalaari Capital,29700000,362,Active
+145,Startup_145,E-commerce,Pune,Maharashtra,2026,Pre-Series A,Accel,26300000,383,Active
+146,Startup_146,Logistics,Chennai,Tamil Nadu,2026,Series A,Kalaari Capital,39900000,320,Active
+147,Startup_147,EdTech,Hyderabad,Telangana,2019,Series C,Blume Ventures,19900000,491,Active
+148,Startup_148,EdTech,Jaipur,Rajasthan,2023,Seed,Kalaari Capital,17000000,75,Active
+149,Startup_149,Cybersecurity,Mumbai,Maharashtra,2023,Series B,Kalaari Capital,42300000,390,Active
+150,Startup_150,CleanTech,Delhi,Delhi,2018,Series B,Tiger Global,3900000,496,Active
+151,Startup_151,FinTech,Pune,Maharashtra,2019,Pre-Series A,Blume Ventures,30500000,142,Active
+152,Startup_152,AgriTech,Ahmedabad,Gujarat,2019,Series B,Blume Ventures,18300000,166,Active
+153,Startup_153,AgriTech,Delhi,Delhi,2023,Seed,Matrix Partners,44000000,316,Active
+154,Startup_154,SaaS,Kolkata,West Bengal,2022,Series A,Matrix Partners,35600000,13,Active
+155,Startup_155,Cybersecurity,Ahmedabad,Gujarat,2018,Series C,Sequoia Capital,38700000,472,Active
+156,Startup_156,FinTech,Ahmedabad,Gujarat,2022,Seed,Nexus Venture Partners,5000000,401,Active
+157,Startup_157,CleanTech,Delhi,Delhi,2026,Seed,Accel,9700000,11,Active
+158,Startup_158,SaaS,Jaipur,Rajasthan,2022,Series A,Tiger Global,42800000,201,Active
+159,Startup_159,SaaS,Ahmedabad,Gujarat,2018,Series B,Nexus Venture Partners,9300000,224,Active
+160,Startup_160,Logistics,Bengaluru,Karnataka,2025,Seed,Matrix Partners,20800000,419,Active
+161,Startup_161,CleanTech,Chennai,Tamil Nadu,2023,Pre-Series A,Kalaari Capital,32700000,116,Active
+162,Startup_162,AgriTech,Noida,Uttar Pradesh,2026,Pre-Series A,Peak XV,41200000,161,Active
+163,Startup_163,Cybersecurity,Delhi,Delhi,2025,Series C,Tiger Global,14700000,114,Active
+164,Startup_164,SaaS,Bengaluru,Karnataka,2020,Series C,Accel,38500000,105,Active
+165,Startup_165,EdTech,Hyderabad,Telangana,2019,Seed,Kalaari Capital,25500000,77,Active
+166,Startup_166,HealthTech,Bengaluru,Karnataka,2019,Series A,Nexus Venture Partners,30800000,164,Active
+167,Startup_167,Logistics,Noida,Uttar Pradesh,2018,Series B,Blume Ventures,47700000,121,Active
+168,Startup_168,FinTech,Jaipur,Rajasthan,2020,Series A,Blume Ventures,37800000,378,Active
+169,Startup_169,Logistics,Ahmedabad,Gujarat,2026,Series C,Tiger Global,19600000,138,Active
+170,Startup_170,AgriTech,Bengaluru,Karnataka,2025,Series A,Nexus Venture Partners,25800000,159,Active
+171,Startup_171,EdTech,Ahmedabad,Gujarat,2020,Series C,Blume Ventures,47700000,245,Active
+172,Startup_172,EdTech,Kolkata,West Bengal,2021,Series C,Accel,40500000,120,Active
+173,Startup_173,HealthTech,Noida,Uttar Pradesh,2025,Seed,Matrix Partners,46900000,237,Active
+174,Startup_174,AgriTech,Jaipur,Rajasthan,2026,Series A,Kalaari Capital,18700000,199,Active
+175,Startup_175,EdTech,Hyderabad,Telangana,2022,Series A,Peak XV,17400000,365,Active
+176,Startup_176,CleanTech,Jaipur,Rajasthan,2023,Series A,Nexus Venture Partners,22700000,301,Active
+177,Startup_177,FinTech,Bengaluru,Karnataka,2018,Seed,Tiger Global,28100000,245,Active
+178,Startup_178,CleanTech,Chennai,Tamil Nadu,2026,Series C,Peak XV,40500000,331,Active
+179,Startup_179,Cybersecurity,Mumbai,Maharashtra,2023,Series C,Matrix Partners,17500000,151,Active
+180,Startup_180,Logistics,Hyderabad,Telangana,2019,Seed,Nexus Venture Partners,12500000,56,Active
+181,Startup_181,E-commerce,Noida,Uttar Pradesh,2020,Series C,Matrix Partners,11900000,13,Active
+182,Startup_182,E-commerce,Ahmedabad,Gujarat,2024,Seed,Matrix Partners,40500000,358,Active
+183,Startup_183,SaaS,Bengaluru,Karnataka,2023,Pre-Series A,Accel,43000000,420,Active
+184,Startup_184,EdTech,Bengaluru,Karnataka,2025,Series B,Tiger Global,8900000,39,Active
+185,Startup_185,HealthTech,Bengaluru,Karnataka,2026,Series A,Accel,48900000,53,Active
+186,Startup_186,FinTech,Delhi,Delhi,2020,Seed,Kalaari Capital,8500000,214,Active
+187,Startup_187,CleanTech,Hyderabad,Telangana,2020,Pre-Series A,Nexus Venture Partners,3300000,123,Active
+188,Startup_188,SaaS,Delhi,Delhi,2019,Series A,Sequoia Capital,18600000,22,Active
+189,Startup_189,EdTech,Noida,Uttar Pradesh,2026,Pre-Series A,Nexus Venture Partners,38100000,206,Active
+190,Startup_190,AI,Noida,Uttar Pradesh,2022,Series A,Tiger Global,2300000,217,Active
+191,Startup_191,SaaS,Mumbai,Maharashtra,2023,Pre-Series A,Accel,10200000,169,Active
+192,Startup_192,EdTech,Kolkata,West Bengal,2019,Pre-Series A,Matrix Partners,22600000,295,Active
+193,Startup_193,E-commerce,Noida,Uttar Pradesh,2024,Series A,Nexus Venture Partners,36700000,500,Active
+194,Startup_194,AI,Chennai,Tamil Nadu,2019,Seed,Peak XV,19300000,466,Active
+195,Startup_195,AI,Ahmedabad,Gujarat,2022,Seed,Kalaari Capital,7000000,405,Active
+196,Startup_196,HealthTech,Kolkata,West Bengal,2023,Series A,Sequoia Capital,38000000,249,Active
+197,Startup_197,EdTech,Bengaluru,Karnataka,2025,Seed,Kalaari Capital,21400000,93,Active
+198,Startup_198,AI,Pune,Maharashtra,2026,Series C,Peak XV,37000000,6,Active
+199,Startup_199,HealthTech,Mumbai,Maharashtra,2024,Series C,Tiger Global,23600000,300,Active
+200,Startup_200,Cybersecurity,Ahmedabad,Gujarat,2019,Seed,Sequoia Capital,32500000,171,Active
+201,Startup_201,HealthTech,Ahmedabad,Gujarat,2024,Series C,Accel,30000000,244,Active
+202,Startup_202,E-commerce,Ahmedabad,Gujarat,2020,Pre-Series A,Nexus Venture Partners,9500000,334,Active
+203,Startup_203,AgriTech,Mumbai,Maharashtra,2021,Series B,Nexus Venture Partners,15800000,94,Active
+204,Startup_204,E-commerce,Kolkata,West Bengal,2021,Series B,Peak XV,47200000,72,Active
+205,Startup_205,E-commerce,Delhi,Delhi,2025,Series B,Peak XV,38400000,399,Active
+206,Startup_206,SaaS,Ahmedabad,Gujarat,2018,Series A,Sequoia Capital,45000000,386,Active
+207,Startup_207,Logistics,Mumbai,Maharashtra,2022,Pre-Series A,Tiger Global,300000,334,Active
+208,Startup_208,FinTech,Kolkata,West Bengal,2026,Pre-Series A,Sequoia Capital,30000000,129,Active
+209,Startup_209,Cybersecurity,Ahmedabad,Gujarat,2023,Seed,Tiger Global,49500000,271,Active
+210,Startup_210,AI,Ahmedabad,Gujarat,2018,Series A,Sequoia Capital,27700000,71,Active
+211,Startup_211,SaaS,Mumbai,Maharashtra,2020,Series C,Sequoia Capital,33800000,69,Active
+212,Startup_212,AgriTech,Hyderabad,Telangana,2025,Series C,Matrix Partners,16500000,258,Active
+213,Startup_213,E-commerce,Jaipur,Rajasthan,2026,Series A,Tiger Global,48200000,175,Active
+214,Startup_214,FinTech,Mumbai,Maharashtra,2026,Series C,Tiger Global,8300000,243,Active
+215,Startup_215,EdTech,Delhi,Delhi,2023,Series B,Tiger Global,13700000,41,Active
+216,Startup_216,SaaS,Jaipur,Rajasthan,2022,Series B,Kalaari Capital,27200000,7,Active
+217,Startup_217,AI,Bengaluru,Karnataka,2020,Series A,Blume Ventures,8500000,342,Active
+218,Startup_218,CleanTech,Noida,Uttar Pradesh,2022,Series B,Peak XV,42700000,194,Active
+219,Startup_219,HealthTech,Noida,Uttar Pradesh,2026,Series B,Sequoia Capital,13900000,412,Active
+220,Startup_220,AgriTech,Pune,Maharashtra,2022,Seed,Tiger Global,26800000,75,Active
+221,Startup_221,FinTech,Chennai,Tamil Nadu,2021,Series B,Nexus Venture Partners,44500000,314,Active
+222,Startup_222,CleanTech,Ahmedabad,Gujarat,2022,Seed,Matrix Partners,10000000,411,Active
+223,Startup_223,FinTech,Kolkata,West Bengal,2019,Pre-Series A,Sequoia Capital,44500000,263,Active
+224,Startup_224,CleanTech,Kolkata,West Bengal,2023,Series A,Accel,42900000,35,Active
+225,Startup_225,CleanTech,Ahmedabad,Gujarat,2025,Seed,Matrix Partners,28100000,468,Active
+226,Startup_226,FinTech,Delhi,Delhi,2020,Pre-Series A,Sequoia Capital,49100000,480,Active
+227,Startup_227,CleanTech,Pune,Maharashtra,2019,Series C,Nexus Venture Partners,36600000,233,Active
+228,Startup_228,Cybersecurity,Chennai,Tamil Nadu,2018,Pre-Series A,Tiger Global,34500000,436,Active
+229,Startup_229,Cybersecurity,Bengaluru,Karnataka,2019,Seed,Sequoia Capital,4800000,219,Active
+230,Startup_230,Cybersecurity,Delhi,Delhi,2023,Series A,Tiger Global,34900000,381,Active
+231,Startup_231,EdTech,Jaipur,Rajasthan,2023,Series B,Sequoia Capital,27200000,329,Active
+232,Startup_232,Cybersecurity,Ahmedabad,Gujarat,2019,Series C,Blume Ventures,18600000,155,Active
+233,Startup_233,CleanTech,Kolkata,West Bengal,2019,Series B,Peak XV,30400000,53,Active
+234,Startup_234,E-commerce,Jaipur,Rajasthan,2018,Series C,Nexus Venture Partners,20600000,184,Active
+235,Startup_235,AgriTech,Delhi,Delhi,2023,Seed,Sequoia Capital,48100000,71,Active
+236,Startup_236,AgriTech,Mumbai,Maharashtra,2023,Pre-Series A,Matrix Partners,17400000,470,Active
+237,Startup_237,CleanTech,Hyderabad,Telangana,2020,Seed,Accel,45400000,329,Active
+238,Startup_238,EdTech,Hyderabad,Telangana,2025,Series A,Blume Ventures,22200000,292,Active
+239,Startup_239,CleanTech,Chennai,Tamil Nadu,2026,Seed,Sequoia Capital,29100000,378,Active
+240,Startup_240,CleanTech,Jaipur,Rajasthan,2024,Pre-Series A,Peak XV,34800000,178,Active
+241,Startup_241,CleanTech,Ahmedabad,Gujarat,2022,Pre-Series A,Kalaari Capital,9100000,274,Active
+242,Startup_242,AI,Delhi,Delhi,2019,Pre-Series A,Sequoia Capital,700000,420,Active
+243,Startup_243,CleanTech,Bengaluru,Karnataka,2018,Series B,Nexus Venture Partners,32300000,64,Active
+244,Startup_244,AI,Hyderabad,Telangana,2026,Series B,Blume Ventures,8700000,222,Active
+245,Startup_245,AgriTech,Delhi,Delhi,2019,Seed,Nexus Venture Partners,47700000,215,Active
+246,Startup_246,CleanTech,Ahmedabad,Gujarat,2023,Series B,Peak XV,35400000,34,Active
+247,Startup_247,CleanTech,Hyderabad,Telangana,2026,Series B,Nexus Venture Partners,35300000,339,Active
+248,Startup_248,AgriTech,Delhi,Delhi,2020,Series A,Matrix Partners,2900000,357,Active
+249,Startup_249,HealthTech,Bengaluru,Karnataka,2020,Series B,Accel,17900000,213,Active
+250,Startup_250,AI,Kolkata,West Bengal,2020,Pre-Series A,Kalaari Capital,46700000,463,Active
+251,Startup_251,CleanTech,Mumbai,Maharashtra,2021,Series B,Sequoia Capital,7400000,451,Active
+252,Startup_252,SaaS,Noida,Uttar Pradesh,2023,Series B,Accel,46000000,148,Active
+253,Startup_253,HealthTech,Noida,Uttar Pradesh,2021,Series A,Accel,5500000,421,Active
+254,Startup_254,AgriTech,Hyderabad,Telangana,2020,Series A,Sequoia Capital,100000,125,Active
+255,Startup_255,Cybersecurity,Chennai,Tamil Nadu,2026,Seed,Blume Ventures,31200000,313,Active
+256,Startup_256,FinTech,Delhi,Delhi,2025,Seed,Matrix Partners,7800000,190,Active
+257,Startup_257,Logistics,Mumbai,Maharashtra,2022,Seed,Blume Ventures,16100000,324,Active
+258,Startup_258,Cybersecurity,Delhi,Delhi,2023,Series C,Tiger Global,21300000,375,Active
+259,Startup_259,CleanTech,Ahmedabad,Gujarat,2020,Series C,Tiger Global,36900000,478,Active
+260,Startup_260,EdTech,Pune,Maharashtra,2025,Pre-Series A,Peak XV,32000000,53,Active
+261,Startup_261,Cybersecurity,Pune,Maharashtra,2023,Series B,Kalaari Capital,16900000,56,Active
+262,Startup_262,CleanTech,Noida,Uttar Pradesh,2022,Seed,Nexus Venture Partners,49400000,435,Active
+263,Startup_263,SaaS,Chennai,Tamil Nadu,2023,Pre-Series A,Sequoia Capital,25500000,227,Active
+264,Startup_264,E-commerce,Kolkata,West Bengal,2019,Series A,Peak XV,45200000,326,Active
+265,Startup_265,Logistics,Kolkata,West Bengal,2026,Seed,Matrix Partners,39700000,370,Active
+266,Startup_266,HealthTech,Chennai,Tamil Nadu,2026,Series A,Blume Ventures,26200000,326,Active
+267,Startup_267,HealthTech,Delhi,Delhi,2023,Series C,Accel,34100000,90,Active
+268,Startup_268,E-commerce,Noida,Uttar Pradesh,2021,Series C,Sequoia Capital,19700000,328,Active
+269,Startup_269,E-commerce,Hyderabad,Telangana,2024,Seed,Tiger Global,11900000,85,Active
+270,Startup_270,FinTech,Kolkata,West Bengal,2018,Series A,Tiger Global,8200000,326,Active
+271,Startup_271,SaaS,Kolkata,West Bengal,2024,Series C,Peak XV,22500000,178,Active
+272,Startup_272,EdTech,Mumbai,Maharashtra,2020,Series B,Matrix Partners,14800000,89,Active
+273,Startup_273,HealthTech,Noida,Uttar Pradesh,2021,Series B,Nexus Venture Partners,24200000,337,Active
+274,Startup_274,E-commerce,Pune,Maharashtra,2018,Series C,Sequoia Capital,3900000,440,Active
+275,Startup_275,FinTech,Ahmedabad,Gujarat,2023,Series C,Sequoia Capital,43100000,339,Active
+276,Startup_276,Logistics,Noida,Uttar Pradesh,2025,Series A,Blume Ventures,23000000,115,Active
+277,Startup_277,Cybersecurity,Jaipur,Rajasthan,2026,Series B,Nexus Venture Partners,26000000,437,Active
+278,Startup_278,Logistics,Ahmedabad,Gujarat,2019,Series A,Nexus Venture Partners,35400000,318,Active
+279,Startup_279,EdTech,Delhi,Delhi,2025,Series B,Tiger Global,1200000,166,Active
+280,Startup_280,Cybersecurity,Pune,Maharashtra,2026,Series A,Nexus Venture Partners,15400000,327,Active
+281,Startup_281,AgriTech,Ahmedabad,Gujarat,2019,Series B,Sequoia Capital,3700000,184,Active
+282,Startup_282,SaaS,Pune,Maharashtra,2019,Series C,Peak XV,6800000,433,Active
+283,Startup_283,FinTech,Pune,Maharashtra,2025,Series A,Blume Ventures,15800000,234,Active
+284,Startup_284,FinTech,Chennai,Tamil Nadu,2022,Series A,Accel,37500000,149,Active
+285,Startup_285,SaaS,Delhi,Delhi,2021,Series B,Sequoia Capital,10100000,347,Active
+286,Startup_286,E-commerce,Kolkata,West Bengal,2018,Series A,Accel,25200000,383,Active
+287,Startup_287,AgriTech,Bengaluru,Karnataka,2019,Seed,Peak XV,45200000,100,Active
+288,Startup_288,EdTech,Mumbai,Maharashtra,2021,Series B,Sequoia Capital,5300000,203,Active
+289,Startup_289,AI,Chennai,Tamil Nadu,2022,Pre-Series A,Sequoia Capital,30700000,386,Active
+290,Startup_290,Cybersecurity,Delhi,Delhi,2024,Pre-Series A,Kalaari Capital,1200000,278,Active
+291,Startup_291,EdTech,Chennai,Tamil Nadu,2018,Seed,Nexus Venture Partners,4100000,23,Active
+292,Startup_292,Cybersecurity,Chennai,Tamil Nadu,2026,Seed,Peak XV,42100000,85,Active
+293,Startup_293,FinTech,Hyderabad,Telangana,2025,Pre-Series A,Blume Ventures,20500000,333,Active
+294,Startup_294,EdTech,Chennai,Tamil Nadu,2021,Series A,Peak XV,36500000,155,Active
+295,Startup_295,FinTech,Delhi,Delhi,2024,Series C,Nexus Venture Partners,6100000,158,Active
+296,Startup_296,SaaS,Jaipur,Rajasthan,2024,Series B,Tiger Global,47800000,41,Active
+297,Startup_297,Cybersecurity,Bengaluru,Karnataka,2024,Series A,Accel,34000000,390,Active
+298,Startup_298,FinTech,Kolkata,West Bengal,2022,Pre-Series A,Matrix Partners,31800000,200,Active
+299,Startup_299,FinTech,Kolkata,West Bengal,2022,Series B,Sequoia Capital,10500000,185,Active
+300,Startup_300,AI,Kolkata,West Bengal,2022,Series A,Matrix Partners,13200000,313,Active
