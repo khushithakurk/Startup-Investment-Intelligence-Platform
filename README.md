@@ -158,7 +158,7 @@ That explainability layer is the difference between "a dashboard with a startup 
 ```
 Startup_Investment_Intelligence.pbix         → full Power BI source file (data model + report)
 StartupInvestmentIntelligence_Dashboard.pdf  → static export of all 3 pages
-screenshots/                                 → PNG exports used in this README
+dashboard/                                 → PNG exports used in this README
 README.md                                    → you are here
 ```
 
