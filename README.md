@@ -88,7 +88,7 @@ That explainability layer is the difference between "a dashboard with a startup 
 ### Page 1 — Executive Overview
 *Global startup funding activity, 2020–2026*
 
-![Executive Overview](screenshots/01-executive-overview.png)
+![Executive Overview](dashboard/01-executive-overview.png)
 
 **What's on it:** headline KPIs (Total Funding Tracked $33.53B, 2,818 Total Rounds, 73 Active Investors, $11.90M Avg Round Size, 1,747 Unique Startups), a quarterly funding trend line, sector ranking bar chart, geographic funding map, and a funding-stage donut.
 
@@ -100,7 +100,7 @@ That explainability layer is the difference between "a dashboard with a startup 
 ### Page 2 — Sector & Investor Analysis
 *Where capital concentrates, and who is deploying it*
 
-![Sector & Investor Analysis](screenshots/02-sector-investor-analysis.png)
+![Sector & Investor Analysis](dashboard/02-sector-investor-analysis.png)
 
 **What's on it:** a conditionally-formatted **Sector × Stage funding intensity matrix**, an **average raised per startup by founding cohort** bar chart, and a **Top Investors by Capital Deployed** league table.
 
@@ -113,7 +113,7 @@ That explainability layer is the difference between "a dashboard with a startup 
 ### Page 3 — Startup Investment Scorecard
 *Startup-level investment profile and readiness analysis*
 
-![Startup Scorecard](screenshots/03-startup-scorecard.png)
+![Startup Scorecard](dashboard/03-startup-scorecard.png)
 
 **What's on it:** a company-selector slicer feeding a **Company Profile** table, an **Investment Readiness Signal** gauge, a ranked **Top Investor Matches** table with plain-language rationale, and a full **Funding History** ledger.
 
